@@ -1,6 +1,3 @@
-📋 COPIA ESTE ARCHIVO:
-Archivo: src/app/components/ChatWindow.tsx
-
 import { useState, useRef, useEffect } from 'react';
 import { X, Minus, Send, Users, Hash } from 'lucide-react';
 import { ChatMessage } from './ChatMessage';
